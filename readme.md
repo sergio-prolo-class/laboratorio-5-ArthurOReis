@@ -38,4 +38,4 @@ Crie um projeto Java com o Gradle. A partir do diagrama de classes proposto (ou 
 - Ainda no `main`, utilize **polimorfismo** para chamar métodos das naves instanciadas. Inclua um comentário no código antes de cada chamada polimórfica. Exemplo: `// Usando polimorfismo na instrução abaixo`
 - Garanta que todos os métodos relevantes sejam invocados para cada objeto instanciado. Por exemplo, se uma nave blindada possui o método `ativarBlindagem()`, e uma nave tripulada possui o método `controleManual()`, ambos devem ser chamados e seus efeitos exibidos no console.
 
-**Importante**: Se o diagrama de classes proposto para esse projeto não estiver totalmente alinhado às regras de negócio, você deverá realizar os ajustes necessários antes da implementação.[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5KCWodJe)
+**Importante**: Se o diagrama de classes proposto para esse projeto não estiver totalmente alinhado às regras de negócio, você deverá realizar os ajustes necessários antes da implementação.
